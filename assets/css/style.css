@@ -254,6 +254,7 @@ ul li {
   display: -webkit-box; /* Mengaktifkan flexbox untuk webkit */
   -webkit-box-orient: vertical; /* Mengatur orientasi kotak secara vertikal */
   -webkit-line-clamp: 2;
+  line-clamp: 2;
 }
 
 .avaprofile {
